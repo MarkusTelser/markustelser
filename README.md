@@ -9,5 +9,5 @@
 </p>/> 
 </p>
 <p align=left> 
-  <img src=https://komarev.com/ghpvc/?username=markustelser alt=markustelser /> 
+  <img src="https://komarev.com/ghpvc/?username=markustelser alt=markustelser" /> 
 </p>
