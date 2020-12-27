@@ -14,5 +14,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markustelser&langs_count=8)](https://github.com/markustelser/github-readme-stats" />
 </p>
 <p align=left> 
-  <img src=https://komarev.com/ghpvc/?username=markustelser alt=markustelser /> 
+  <img src="https://komarev.com/ghpvc/?username=markustelser" alt=markustelser /> 
 </p>
