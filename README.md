@@ -3,8 +3,7 @@
 ## Some of my Github Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true)](https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true&theme=radical)
 <p>
-  <img src=[(https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true)](https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true&theme=radical) />
-  <img src=https://komarev.com/ghpvc/?username=markustelser alt=markustelser /> 
+  <img src=https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true)/> 
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markustelser)](https://github.com/markustelser/github-readme-stats)
 <p align=left> 
