@@ -13,12 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true" /> 
 </p>
 <p align=left> 
-  <img src="https://github-readme-goat
-@HugoRoca
-HugoRoca commented on Jun 6, 2018
-
-thanks! ghoststats.vercel.app/api/top-langs/?username=markustelser" /> 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 <p align=left> 
   <img src=https://komarev.com/ghpvc/?username=markustelser alt=markustelser /> 
