@@ -5,7 +5,7 @@
   <img src=https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true/> 
 </p>
 <p>
-  <img src=https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true/> 
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=markustelser/> 
 </p>/> 
 </p>g a maintainer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markustelser)](https://github.com/markustelser/github-readme-stats)
