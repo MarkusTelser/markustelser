@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=markustelser&show_icons=true" /> 
 </p>
 <p align=left> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markustelser&langs_count=8)](https://github.com/markustelser/github-readme-stats" />
 </p>
 <p align=left> 
   <img src=https://komarev.com/ghpvc/?username=markustelser alt=markustelser /> 
